@@ -1,0 +1,43 @@
+#################################
+# INFORMATION YOU PROVIDE TO US #
+#################################
+
+> PotSnap’s Privacy Policy <
+
+PotSnap (also referred to as “we”, “the site”, “us”, “the app”) is a pothole reporting application. We collect and store some personal information in order to provide that service to you. 
+
+The main reason we collect your information is to provide the service of convenient reporting of potholes to The City of Ottawa.
+ 
+Our secondary reason is to use the data provided about pothole locations to improve the quality of services provided by the city. This may take various forms publicly and privately like in reports, displays and meetings.
+
+We do not collect the information of minors. 
+
+We make all attempts to safeguard your data to the best of our ability. We make every effort to not store any information more that is needed to provide the service. 
+
+We safeguard any information that could be used to track or identify you. 
+
+Any data stored will be obfuscated against leaks or theft. 
+
+Any data provided will never be shared in raw format and will never be used to identify you, unless needed for the provision of a requested service or required by law.
+
+We collect information though the following means:
+	- Though the information you provide in messages to us
+	- Through data provided from Facebook about your profile for identification
+	- Emails and communication with the company
+
+We also may from time to time collect data inadvertently though logs and debugging information. This data whenever possible will not be stored. We take measures to ensure your privacy is protected even on the code level.
+
+> NOTICE ABOUT 311 SERVICES <
+
+All "Citizen Powered" 311 Services interface with the City of Ottawa. As such, we pass though the relevant information, in order to allow the city to provide services to you. They are governed by there own privacy policy found at:
+
+What we store in detail:
+	- Longitude and latitude data from locations sent though messanger
+	- Images sent to us though messanger
+	- A size value set to us though messanger
+
+> NOTICE ABOUT CHANGES <
+
+PotSnap is part of the family of Citizen 311 Products. This is a developing program and as such it is subject to change without notice. Future verisions will collect diffrent information as the program grows and develops.
+
+This Privacy Policy was created for verision 0.4.x
