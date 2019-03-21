@@ -20,24 +20,26 @@ Any data stored will be obfuscated against leaks or theft.
 
 Any data provided will never be shared in raw format and will never be used to identify you, unless needed for the provision of a requested service or required by law.
 
-We collect information though the following means:
-	- Though the information you provide in messages to us
+We collect information through the following means:
+	- Through the information you provide in messages to us
 	- Through data provided from Facebook about your profile for identification
 	- Emails and communication with the company
+	
+What we store in detail:
+	- Longitude and latitude data from locations sent through messenger
+	- Images sent to us through messenger
+	- A size value sent to us through messenger
 
-We also may from time to time collect data inadvertently though logs and debugging information. This data whenever possible will not be stored. We take measures to ensure your privacy is protected even on the code level.
+We also may from time to time collect data inadvertently through logs and debugging information. This data whenever possible will not be stored. We take measures to ensure your privacy is protected even on the code level.
 
 > NOTICE ABOUT 311 SERVICES <
 
-All "Citizen Powered" 311 Services interface with the City of Ottawa. As such, we pass though the relevant information, in order to allow the city to provide services to you. They are governed by there own privacy policy found at:
-
-What we store in detail:
-	- Longitude and latitude data from locations sent though messanger
-	- Images sent to us though messanger
-	- A size value set to us though messanger
+All "Citizen Powered" 311 Services interface with the City of Ottawa. As such, we pass through the relevant information, in order to allow the city to provide services to you. They are governed by there own privacy policys found here:
+- https://ottawa.ca/en/city-hall/get-know-your-city/open-data
+- https://ottawa.ca/en/city-hall/accountability-and-transparency/accountability-framework/freedom-information-and-protection-privacy/protection-privacy#privacy-statement
 
 > NOTICE ABOUT CHANGES <
 
 PotSnap is part of the family of Citizen 311 Products. This is a developing program and as such it is subject to change without notice. Future verisions will collect diffrent information as the program grows and develops.
 
-This Privacy Policy was created for verision 0.4.x
+This Privacy Policy was created for PotSnap version 0.4.x
